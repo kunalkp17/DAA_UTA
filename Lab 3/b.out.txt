@@ -1,0 +1,586 @@
+List 0 for 8221 has 2 elements
+List 1 for 17713 has 4 elements
+List 2 for 27809 has 8 elements
+List 3 for 38281 has 16 elements
+List 4 for 49057 has 32 elements
+List 5 for 59809 has 64 elements
+List 6 for 71191 has 128 elements
+List 7 for 82351 has 256 elements
+List 8 for 93871 has 512 elements
+List 9 for 105401 has 1024 elements
+List 10 for 117193 has 2048 elements
+List 11 for 128879 has 4032 elements
+List 12 for 140663 has 8000 elements
+List 13 for 152539 has 15851 elements
+List 14 for 164677 has 31692 elements
+List 15 for 176887 has 62546 elements
+List 16 for 188953 has 120868 elements
+List 17 for 201251 has 228200 elements
+List 18 for 213449 has 410788 elements
+List 19 for 225781 has 677826 elements
+List 20 for 238363 has 1013710 elements
+List 21 for 250753 has 1351145 elements
+List 22 for 263383 has 1665262 elements
+List 23 for 275729 has 1978785 elements
+List 24 for 288539 has 2292454 elements
+List 25 for 301319 has 2612117 elements
+List 26 for 313921 has 2941192 elements
+List 27 for 326257 has 3278345 elements
+List 28 for 339023 has 3625704 elements
+List 29 for 351803 has 3983651 elements
+List 30 for 364739 has 4353288 elements
+List 31 for 377749 has 4735681 elements
+List 32 for 390737 has 5129034 elements
+List 33 for 403703 has 5534987 elements
+List 34 for 416693 has 5953360 elements
+List 35 for 429727 has 6385397 elements
+List 36 for 442537 has 6829462 elements
+List 37 for 455687 has 7286785 elements
+List 38 for 468893 has 7756826 elements
+List 39 for 481813 has 8239395 elements
+List 40 for 495037 has 8734924 elements
+List 41 for 508187 has 9243441 elements
+List 42 for 521281 has 9765046 elements
+List 43 for 534431 has 10299703 elements
+List 44 for 547901 has 10847812 elements
+List 45 for 561091 has 11409117 elements
+List 46 for 574501 has 11983732 elements
+List 47 for 587563 has 12571473 elements
+List 48 for 601021 has 13172558 elements
+List 49 for 614279 has 13786967 elements
+List 50 for 627787 has 14414794 elements
+List 51 for 641479 has 15056363 elements
+List 52 for 654821 has 15711192 elements
+List 53 for 668347 has 16379583 elements
+List 54 for 681689 has 17061298 elements
+List 55 for 695207 has 17756525 elements
+List 56 for 708559 has 18465086 elements
+List 57 for 722237 has 19187323 elements
+List 58 for 735571 has 19922896 elements
+List 59 for 749543 has 20672439 elements
+List 60 for 763073 has 21435512 elements
+List 61 for 776569 has 22212083 elements
+List 62 for 790121 has 23002204 elements
+List 63 for 803669 has 23805873 elements
+List 64 for 817321 has 24623194 elements
+List 65 for 830849 has 25454043 elements
+List 66 for 844549 has 26298592 elements
+List 67 for 858433 has 27157025 elements
+List 68 for 872033 has 28029058 elements
+List 69 for 885733 has 28914791 elements
+List 70 for 899467 has 29814258 elements
+List 71 for 913039 has 30727297 elements
+List 72 for 926797 has 31654094 elements
+List 73 for 940853 has 32594947 elements
+List 74 for 954827 has 33549774 elements
+List 75 for 968663 has 34518437 elements
+List 76 for 982741 has 35501178 elements
+List 77 for 996803 has 36497981 elements
+List 78 for 1010263 has 37508244 elements
+List 79 for 1024061 has 38532305 elements
+List 80 for 1038017 has 39570322 elements
+List 81 for 1052083 has 40622405 elements
+List 82 for 1066313 has 41688718 elements
+List 83 for 1080091 has 42768809 elements
+List 84 for 1093991 has 43862800 elements
+List 85 for 1107797 has 44970597 elements
+List 86 for 1121543 has 46092140 elements
+List 87 for 1135597 has 47227737 elements
+List 88 for 1149917 has 48377654 elements
+List 89 for 1163441 has 49541095 elements
+List 90 for 1177529 has 50718624 elements
+List 91 for 1191107 has 51909731 elements
+List 92 for 1205513 has 53115244 elements
+List 93 for 1219501 has 54334745 elements
+List 94 for 1233751 has 55568496 elements
+List 95 for 1247969 has 56816465 elements
+List 96 for 1261963 has 58078428 elements
+List 97 for 1275973 has 59354401 elements
+List 98 for 1289867 has 60007482 elements
+List 99 for 1304207 has 60007482 elements
+Subset that sums to 60609199
+1289867 (98)
+1275973 (97)
+1261963 (96)
+1247969 (95)
+1233751 (94)
+1219501 (93)
+1205513 (92)
+1191107 (91)
+1177529 (90)
+1163441 (89)
+1149917 (88)
+1135597 (87)
+1121543 (86)
+1107797 (85)
+1093991 (84)
+1080091 (83)
+1066313 (82)
+1052083 (81)
+1038017 (80)
+1024061 (79)
+1010263 (78)
+996803 (77)
+982741 (76)
+968663 (75)
+954827 (74)
+940853 (73)
+926797 (72)
+913039 (71)
+899467 (70)
+885733 (69)
+872033 (68)
+858433 (67)
+844549 (66)
+830849 (65)
+817321 (64)
+803669 (63)
+790121 (62)
+776569 (61)
+749543 (59)
+735571 (58)
+722237 (57)
+708559 (56)
+695207 (55)
+681689 (54)
+668347 (53)
+654821 (52)
+641479 (51)
+627787 (50)
+614279 (49)
+601021 (48)
+587563 (47)
+574501 (46)
+561091 (45)
+547901 (44)
+534431 (43)
+521281 (42)
+508187 (41)
+495037 (40)
+481813 (39)
+468893 (38)
+455687 (37)
+442537 (36)
+429727 (35)
+416693 (34)
+403703 (33)
+390737 (32)
+377749 (31)
+364739 (30)
+351803 (29)
+339023 (28)
+326257 (27)
+313921 (26)
+301319 (25)
+288539 (24)
+275729 (23)
+263383 (22)
+250753 (21)
+238363 (20)
+225781 (19)
+213449 (18)
+201251 (17)
+188953 (16)
+164677 (14)
+152539 (13)
+140663 (12)
+128879 (11)
+105401 (9)
+93871 (8)
+59809 (5)
+49057 (4)
+38281 (3)
+17713 (1)
+8221 (0)
+Version 1 CPU: 14.589033
+Version 1 maximum bytes used 1909790128
+List 0 for 8221 has 2 elements
+List 1 for 17713 has 4 elements
+List 2 for 27809 has 8 elements
+List 3 for 38281 has 16 elements
+List 4 for 49057 has 32 elements
+List 5 for 59809 has 64 elements
+List 6 for 71191 has 128 elements
+List 7 for 82351 has 256 elements
+List 8 for 93871 has 512 elements
+List 9 for 105401 has 1024 elements
+List 10 for 117193 has 2048 elements
+List 11 for 128879 has 4032 elements
+List 12 for 140663 has 8000 elements
+List 13 for 152539 has 15851 elements
+List 14 for 164677 has 31692 elements
+List 15 for 176887 has 62546 elements
+List 16 for 188953 has 120868 elements
+List 17 for 201251 has 228200 elements
+List 18 for 213449 has 410788 elements
+List 19 for 225781 has 677826 elements
+List 20 for 238363 has 1013710 elements
+List 21 for 250753 has 1351145 elements
+List 22 for 263383 has 1665262 elements
+List 23 for 275729 has 1978785 elements
+List 24 for 288539 has 2292454 elements
+List 25 for 301319 has 2612117 elements
+List 26 for 313921 has 2941192 elements
+List 27 for 326257 has 3278345 elements
+List 28 for 339023 has 3625704 elements
+List 29 for 351803 has 3983651 elements
+List 30 for 364739 has 4353288 elements
+List 31 for 377749 has 4735681 elements
+List 32 for 390737 has 5129034 elements
+List 33 for 403703 has 5534987 elements
+List 34 for 416693 has 5953360 elements
+List 35 for 429727 has 6385397 elements
+List 36 for 442537 has 6829462 elements
+List 37 for 455687 has 7286785 elements
+List 38 for 468893 has 7756826 elements
+List 39 for 481813 has 8239395 elements
+List 40 for 495037 has 8734924 elements
+List 41 for 508187 has 9243441 elements
+List 42 for 521281 has 9765046 elements
+List 43 for 534431 has 10299703 elements
+List 44 for 547901 has 10847812 elements
+List 45 for 561091 has 11409117 elements
+List 46 for 574501 has 11983732 elements
+List 47 for 587563 has 12571473 elements
+List 48 for 601021 has 13172558 elements
+List 49 for 614279 has 13786967 elements
+List 50 for 627787 has 2 elements
+List 51 for 641479 has 4 elements
+List 52 for 654821 has 8 elements
+List 53 for 668347 has 16 elements
+List 54 for 681689 has 30 elements
+List 55 for 695207 has 60 elements
+List 56 for 708559 has 120 elements
+List 57 for 722237 has 240 elements
+List 58 for 735571 has 480 elements
+List 59 for 749543 has 960 elements
+List 60 for 763073 has 1888 elements
+List 61 for 776569 has 3620 elements
+List 62 for 790121 has 7146 elements
+List 63 for 803669 has 13926 elements
+List 64 for 817321 has 26824 elements
+List 65 for 830849 has 51398 elements
+List 66 for 844549 has 92294 elements
+List 67 for 858433 has 163316 elements
+List 68 for 872033 has 276684 elements
+List 69 for 885733 has 439130 elements
+List 70 for 899467 has 680472 elements
+List 71 for 913039 has 967228 elements
+List 72 for 926797 has 1349294 elements
+List 73 for 940853 has 1950268 elements
+List 74 for 954827 has 2807718 elements
+List 75 for 968663 has 3870546 elements
+List 76 for 982741 has 5265678 elements
+List 77 for 996803 has 7077675 elements
+List 78 for 1010263 has 8909528 elements
+List 79 for 1024061 has 10965568 elements
+List 80 for 1038017 has 13185944 elements
+List 81 for 1052083 has 15060427 elements
+List 82 for 1066313 has 16764298 elements
+List 83 for 1080091 has 18253963 elements
+List 84 for 1093991 has 19657410 elements
+List 85 for 1107797 has 20995461 elements
+List 86 for 1121543 has 22300760 elements
+List 87 for 1135597 has 23598213 elements
+List 88 for 1149917 has 24928998 elements
+List 89 for 1163441 has 26221971 elements
+List 90 for 1177529 has 27525014 elements
+List 91 for 1191107 has 28814613 elements
+List 92 for 1205513 has 30139462 elements
+List 93 for 1219501 has 31470019 elements
+List 94 for 1233751 has 32824416 elements
+List 95 for 1247969 has 34189995 elements
+List 96 for 1261963 has 35560430 elements
+List 97 for 1275973 has 36929607 elements
+List 98 for 1289867 has 38296130 elements
+List 99 for 1304207 has 39681941 elements
+Subset that sums to 60609199
+Using inputs 0 to 49
+574501 (46)
+561091 (45)
+547901 (44)
+534431 (43)
+521281 (42)
+508187 (41)
+495037 (40)
+481813 (39)
+468893 (38)
+455687 (37)
+442537 (36)
+429727 (35)
+416693 (34)
+403703 (33)
+390737 (32)
+377749 (31)
+364739 (30)
+351803 (29)
+339023 (28)
+326257 (27)
+313921 (26)
+301319 (25)
+288539 (24)
+275729 (23)
+263383 (22)
+250753 (21)
+238363 (20)
+213449 (18)
+188953 (16)
+176887 (15)
+164677 (14)
+152539 (13)
+140663 (12)
+128879 (11)
+105401 (9)
+93871 (8)
+71191 (6)
+59809 (5)
+27809 (2)
+Using inputs 50 to 99
+1304207 (99)
+1289867 (98)
+1275973 (97)
+1261963 (96)
+1247969 (95)
+1233751 (94)
+1219501 (93)
+1205513 (92)
+1191107 (91)
+1177529 (90)
+1163441 (89)
+1149917 (88)
+1135597 (87)
+1121543 (86)
+1107797 (85)
+1093991 (84)
+1080091 (83)
+1066313 (82)
+1052083 (81)
+1038017 (80)
+1024061 (79)
+1010263 (78)
+996803 (77)
+982741 (76)
+968663 (75)
+954827 (74)
+940853 (73)
+926797 (72)
+913039 (71)
+899467 (70)
+885733 (69)
+872033 (68)
+858433 (67)
+844549 (66)
+830849 (65)
+817321 (64)
+803669 (63)
+790121 (62)
+776569 (61)
+763073 (60)
+749543 (59)
+735571 (58)
+722237 (57)
+708559 (56)
+695207 (55)
+681689 (54)
+668347 (53)
+654821 (52)
+641479 (51)
+627787 (50)
+Version 2a CPU: 6.133684
+Version 2a maximum bytes used 1414372720
+List 0 for 8221 has 2 elements
+List 2 for 27809 has 4 elements
+List 4 for 49057 has 8 elements
+List 6 for 71191 has 16 elements
+List 8 for 93871 has 32 elements
+List 10 for 117193 has 64 elements
+List 12 for 140663 has 128 elements
+List 14 for 164677 has 256 elements
+List 16 for 188953 has 512 elements
+List 18 for 213449 has 1024 elements
+List 20 for 238363 has 2048 elements
+List 22 for 263383 has 4096 elements
+List 24 for 288539 has 8192 elements
+List 26 for 313921 has 16380 elements
+List 28 for 339023 has 32188 elements
+List 30 for 364739 has 64064 elements
+List 32 for 390737 has 126840 elements
+List 34 for 416693 has 244908 elements
+List 36 for 442537 has 462092 elements
+List 38 for 468893 has 851582 elements
+List 40 for 495037 has 1439012 elements
+List 42 for 521281 has 2182063 elements
+List 44 for 547901 has 2948436 elements
+List 46 for 574501 has 3650905 elements
+List 48 for 601021 has 4327868 elements
+List 50 for 627787 has 5011747 elements
+List 52 for 654821 has 5708238 elements
+List 54 for 681689 has 6420883 elements
+List 56 for 708559 has 7151046 elements
+List 58 for 735571 has 7906645 elements
+List 60 for 763073 has 8682460 elements
+List 62 for 790121 has 9485041 elements
+List 64 for 817321 has 10315190 elements
+List 66 for 844549 has 11164979 elements
+List 68 for 872033 has 12044332 elements
+List 70 for 899467 has 12949555 elements
+List 72 for 926797 has 13880276 elements
+List 74 for 954827 has 14840137 elements
+List 76 for 982741 has 15826206 elements
+List 78 for 1010263 has 16839531 elements
+List 80 for 1038017 has 17879134 elements
+List 82 for 1066313 has 18946959 elements
+List 84 for 1093991 has 20042068 elements
+List 86 for 1121543 has 21164413 elements
+List 88 for 1149917 has 22315378 elements
+List 90 for 1177529 has 23493609 elements
+List 92 for 1205513 has 24699744 elements
+List 94 for 1233751 has 25934061 elements
+List 96 for 1261963 has 27196336 elements
+List 98 for 1289867 has 28486479 elements
+List 1 for 17713 has 2 elements
+List 3 for 38281 has 4 elements
+List 5 for 59809 has 8 elements
+List 7 for 82351 has 16 elements
+List 9 for 105401 has 32 elements
+List 11 for 128879 has 64 elements
+List 13 for 152539 has 128 elements
+List 15 for 176887 has 256 elements
+List 17 for 201251 has 512 elements
+List 19 for 225781 has 1024 elements
+List 21 for 250753 has 2048 elements
+List 23 for 275729 has 4096 elements
+List 25 for 301319 has 8152 elements
+List 27 for 326257 has 16304 elements
+List 29 for 351803 has 32576 elements
+List 31 for 377749 has 64407 elements
+List 33 for 403703 has 125494 elements
+List 35 for 429727 has 240445 elements
+List 37 for 455687 has 449428 elements
+List 39 for 481813 has 814952 elements
+List 41 for 508187 has 1392646 elements
+List 43 for 534431 has 2154636 elements
+List 45 for 561091 has 2966008 elements
+List 47 for 587563 has 3693167 elements
+List 49 for 614279 has 4399280 elements
+List 51 for 641479 has 5109325 elements
+List 53 for 668347 has 5828514 elements
+List 55 for 695207 has 6563017 elements
+List 57 for 722237 has 7314296 elements
+List 59 for 749543 has 8086887 elements
+List 61 for 776569 has 8883574 elements
+List 63 for 803669 has 9704589 elements
+List 65 for 830849 has 10548590 elements
+List 67 for 858433 has 11417185 elements
+List 69 for 885733 has 12310698 elements
+List 71 for 913039 has 13231401 elements
+List 73 for 940853 has 14178064 elements
+List 75 for 968663 has 15151197 elements
+List 77 for 996803 has 16151746 elements
+List 79 for 1024061 has 17179349 elements
+List 81 for 1052083 has 18234350 elements
+List 83 for 1080091 has 19315763 elements
+List 85 for 1107797 has 20425154 elements
+List 87 for 1135597 has 21562045 elements
+List 89 for 1163441 has 22726470 elements
+List 91 for 1191107 has 23918219 elements
+List 93 for 1219501 has 25138776 elements
+List 95 for 1247969 has 26387661 elements
+List 97 for 1275973 has 27664250 elements
+List 99 for 1304207 has 28968945 elements
+Subset that sums to 60609199
+Using even-indexed inputs
+1289867 (98)
+1261963 (96)
+1233751 (94)
+1205513 (92)
+1177529 (90)
+1121543 (86)
+1093991 (84)
+1066313 (82)
+1038017 (80)
+1010263 (78)
+982741 (76)
+954827 (74)
+926797 (72)
+899467 (70)
+872033 (68)
+844549 (66)
+817321 (64)
+790121 (62)
+763073 (60)
+735571 (58)
+708559 (56)
+681689 (54)
+654821 (52)
+627787 (50)
+601021 (48)
+547901 (44)
+521281 (42)
+495037 (40)
+468893 (38)
+442537 (36)
+416693 (34)
+390737 (32)
+364739 (30)
+339023 (28)
+313921 (26)
+263383 (22)
+238363 (20)
+213449 (18)
+188953 (16)
+93871 (8)
+49057 (4)
+Using odd-indexed inputs
+1304207 (99)
+1275973 (97)
+1247969 (95)
+1219501 (93)
+1191107 (91)
+1163441 (89)
+1135597 (87)
+1107797 (85)
+1080091 (83)
+1052083 (81)
+1024061 (79)
+996803 (77)
+968663 (75)
+940853 (73)
+913039 (71)
+885733 (69)
+858433 (67)
+830849 (65)
+803669 (63)
+776569 (61)
+749543 (59)
+722237 (57)
+695207 (55)
+668347 (53)
+641479 (51)
+614279 (49)
+587563 (47)
+561091 (45)
+534431 (43)
+508187 (41)
+481813 (39)
+455687 (37)
+429727 (35)
+403703 (33)
+377749 (31)
+351803 (29)
+326257 (27)
+301319 (25)
+275729 (23)
+250753 (21)
+225781 (19)
+201251 (17)
+176887 (15)
+152539 (13)
+128879 (11)
+105401 (9)
+82351 (7)
+59809 (5)
+38281 (3)
+17713 (1)
+Version 2b CPU: 6.385959
+Version 2b maximum bytes used 1299971952

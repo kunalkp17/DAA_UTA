@@ -1,0 +1,9 @@
+sorting 1000
+qsort time 0.000087
+duplicate removal
+closest pair (-9714 5698) (-9733 5679) at dist**2 722
+sweep time 0.000242
+max BST nodes 32
+Rotations: 694 with left 1709 with right
+closest pair (-9714 5698) (-9733 5679) at dist**2 722
+brute force time 0.001810
